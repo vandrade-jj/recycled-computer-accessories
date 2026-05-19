@@ -1,25 +1,18 @@
-# Recycled Computer Accessories GitHub Pages Slideshow
+# VoltLoop Slideshow
 
-This is a website-style slideshow for a social entrepreneurship project focused on recycled computer accessories.
+This package contains a GitHub Pages-ready slideshow for the VoltLoop social enterprise project.
 
-## How to upload to GitHub Pages
+## Files
+- `index.html` – slideshow content
+- `styles.css` – styling
+- `script.js` – navigation logic
+- `assets/` – slide images
 
-1. Go to GitHub and create a new repository.
-2. Name it something like `recycled-computer-accessories`.
-3. Upload all files from this folder:
-   - `index.html`
-   - `styles.css`
-   - `script.js`
-   - the full `assets` folder
-4. Click **Commit changes**.
-5. Go to **Settings** → **Pages**.
-6. Under **Build and deployment**, choose:
-   - Source: **Deploy from a branch**
-   - Branch: **main**
-   - Folder: **/root**
-7. Click **Save**.
-8. Wait 1–3 minutes, then refresh the Pages section to get your live website link.
+## Publish on GitHub Pages
+1. Upload all files in this folder to your repository.
+2. In GitHub, go to **Settings → Pages**.
+3. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
+4. Choose **main** branch and **/(root)** folder.
+5. Save, then refresh after a minute.
 
-## Controls
-
-Use the on-screen arrows, keyboard arrows, or spacebar to move through slides.
+Use the arrow buttons or your keyboard arrow keys to move through the slides.

@@ -195,3 +195,26 @@ button:hover {
   }
   p { line-height: 1.26; }
 }
+
+
+.cost-list {
+  font-weight: 700;
+  color: var(--white);
+  line-height: 1.35;
+}
+
+.finance-slide strong {
+  color: var(--white);
+  font-weight: 900;
+}
+
+
+.title-slide .hero-img {
+  width: 80%;
+  object-position: right center;
+}
+
+.branding-slide .hero-img {
+  width: 76%;
+  object-position: right center;
+}
